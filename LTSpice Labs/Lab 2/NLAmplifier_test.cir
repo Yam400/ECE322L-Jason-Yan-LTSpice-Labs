@@ -1,0 +1,10 @@
+
+Vsig 1 0 DC 0 SIN(2.02 .67 10)
+R1 1 2 100
+Xopamp 2 3 0 NLAmplifier
+R2 3 0 50k
+
+.include NLAmplifier.sub
+*.dc Vsig -10 10 0.1
+.tran 1u .5 0 .01m
+.end

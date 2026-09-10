@@ -1,0 +1,15 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\jason\OneDrive\Documents\LTSpice Labs\Lab 2\NLAmplifier_test.cir
+Start Time: Thu Sep 10 09:44:32 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 2.320 seconds.
+
+Files loaded:
+C:\Users\jason\OneDrive\Documents\LTSpice Labs\Lab 2\NLAmplifier_test.cir
+C:\Users\jason\OneDrive\Documents\LTSpice Labs\Lab 2\NLAmplifier.sub
+

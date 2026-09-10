@@ -1,0 +1,18 @@
+*DC Sweep
+R1 1 2 10k
+R2 2 3 10k
+R3 3 4 10k
+R4 3 0 10k
+R5 2 0 10k
+C1 4 0 .01u
+
+*Sources
+Vsig 1 0 DC 5 PULSE (-5 5 0 0.1m 0.1m .8m 2m)
+
+*pulse width is .8m
+
+*Sim commands
+*.dc Vsig -10 10 0.01
+*.ac DEC 20 10 100k
+.TRAN 1u 10m
+.end
