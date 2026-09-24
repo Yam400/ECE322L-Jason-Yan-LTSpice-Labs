@@ -1,0 +1,14 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\jason\Downloads\ECE322L Jason Yan LTSpice Labs\LTSpice Labs\Lab 4\noninvertCircTBCascade.net
+Start Time: Thu Sep 24 09:35:50 2026
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Total elapsed time: 0.211 seconds.
+
+Files loaded:
+C:\Users\jason\Downloads\ECE322L Jason Yan LTSpice Labs\LTSpice Labs\Lab 4\noninvertCircTBCascade.net
+C:\Users\jason\Downloads\ECE322L Jason Yan LTSpice Labs\LTSpice Labs\Lab 4\LM324.sub
+
